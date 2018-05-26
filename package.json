@@ -1,6 +1,6 @@
 {
   "name": "ngrx-persist",
-  "version": "0.0.1",
+  "version": "0.0.1-dev.0",
   "scripts": {
     "ng": "ng",
     "build": "ng build",
